@@ -28,7 +28,8 @@ maKine se presenta como una nueva distribución Linux orientada a OSINT para tod
 <a href="https://mega.nz/file/2zxRXZpI#cX81jIG9zUA5cdlDe7ZLTHld8_umkq_ro76HGS7BLPc" target="_blank">Video demostración</a>
 
 ## Descarga
- MEGA: https://mega.nz/file/PjQ3TTQY#fW91rLNhc68IXZ1IqgKPW91guMFOSdhnE1J89cEMp2c
+ <strong>MEGA:</strong> https://mega.nz/file/PjQ3TTQY#fW91rLNhc68IXZ1IqgKPW91guMFOSdhnE1J89cEMp2c
 
-Usuario: makine
-Contraseña: makine
+ <strong>Usuario:</strong> makine
+<br>
+ <strong>Contraseña: </strong> makine
